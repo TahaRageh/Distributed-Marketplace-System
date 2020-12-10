@@ -1,2 +1,2 @@
 # Distributed-Marketplace-System
-A distributed online marketplace system that provides the following features to its clients : 
+An Online marketplace system that relays on Distributed Database models and using Python and Django Framework
