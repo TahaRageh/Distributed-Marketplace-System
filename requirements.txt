@@ -1,5 +1,5 @@
 Django==3.1.4
-mysqlclient==1.4.6
+mysqlclient==2.0.2
 mysql-connector-python==8.0.22
 
 braintree==3.32.0
@@ -14,8 +14,7 @@ six==1.10.0
 asgiref==3.3.1
 pytz==2020.4
 setuptools==51.0.0
-sqlprase==0.4.1
-wheel==0.35.1	
+wheel==0.35.1
 virtualenv==20.2.2
 virtualenvwrapper-win==1.2.6	
 
